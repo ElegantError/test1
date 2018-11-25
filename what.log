@@ -1,0 +1,52 @@
+commit 05db0d7a5b2728c2359b2d227559d10fcc10aec3
+Merge: cdd2d59 e329e82
+Author: ElegantError <42954298+ElegantError@users.noreply.github.com>
+Date:   Sat Nov 24 15:37:43 2018 -0500
+
+    Merge pull request #2 from ElegantError/best
+    
+    short
+
+commit e329e829ca11bab998892d49f5ac9345e80eed9c
+Author: macdonald <me@mycomdotcom.com>
+Date:   Sat Nov 24 15:35:00 2018 -0500
+
+    short
+
+commit cdd2d59bcd0d700df286cd095951f47839a2afcb
+Merge: 1ac6afd bcc7277
+Author: ElegantError <42954298+ElegantError@users.noreply.github.com>
+Date:   Sat Nov 24 15:23:24 2018 -0500
+
+    Merge branch 'master' into test
+
+commit 1ac6afdf16ed9b0874e34f7721c8b1ee73ca944b
+Author: macdonald <me@mycomdotcom.com>
+Date:   Sat Nov 24 15:20:50 2018 -0500
+
+    prize
+
+commit bcc7277db0f3e5427f9afd78a296d73f5bef7ca3
+Author: ElegantError <42954298+ElegantError@users.noreply.github.com>
+Date:   Sat Nov 24 15:19:12 2018 -0500
+
+    more updates
+
+commit b2c3be0128a59842530b8c4e619b1a38d9b18ef6
+Merge: 05eadc5 3c1c431
+Author: macdonald <me@mycomdotcom.com>
+Date:   Sat Nov 24 15:16:16 2018 -0500
+
+    Merge branch 'master' of https://github.com/ElegantError/test1
+
+commit 05eadc53047329b0841d30fd8364066a2b5af1b4
+Author: macdonald <me@mycomdotcom.com>
+Date:   Sat Nov 24 15:14:55 2018 -0500
+
+    this text
+
+commit 3c1c4311aad4f391ad64c6116977f48108ab7929
+Author: ElegantError <42954298+ElegantError@users.noreply.github.com>
+Date:   Sat Nov 24 15:14:06 2018 -0500
+
+    crated read.txt
